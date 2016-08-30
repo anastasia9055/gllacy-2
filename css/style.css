@@ -1,0 +1,52 @@
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    color: white;
+    margin: 0;
+    width: 100%;
+    padding: 0;
+}
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+h2 {
+    font-size: 35px;
+    line-height: 22px;
+}
+h3 {
+    font-size: 24px;
+    line-height: 30px;
+}
+a {
+    color: white;
+}
+.link-color:hover,
+footer a:hover {
+    color: #ffbc9e;
+}
+.slide {
+    display: none;
+}
+.wrapper {
+    width: 100%;
+    background-color: #849d8f;
+    background-image: url(../img/index/ice1.png);
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    margin: 0;
+    
+}
+.wrapper-inner {
+    width: 100%;
+    background-color: #849d8f;
+    margin: 0;
+}
+.container {
+    padding: 0 2.3%;
+    margin: 0 auto;
+    min-width: 900px;
+    max-width: 1200px;
+    position: relative;
+}
