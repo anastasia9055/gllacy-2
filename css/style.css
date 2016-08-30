@@ -36,6 +36,7 @@ footer a:hover {
     background-repeat: no-repeat;
     background-position: 50% 0%;
     margin: 0;
+    border: 3px solid red;
     
 }
 .wrapper-inner {
@@ -49,4 +50,5 @@ footer a:hover {
     min-width: 900px;
     max-width: 1200px;
     position: relative;
+    border: 3px solid black;
 }
